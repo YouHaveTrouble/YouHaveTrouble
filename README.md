@@ -3,13 +3,16 @@ Hello fellow programmer, it's me Githapp, please dm me your credit card informat
 
 ### MY socials
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[twitter]: https://twitter.com/youhavetrouble
-[youtube]: https://youtube.com/youhavetrouble
 
-<br />
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />Twitter](https://twitter.com/youhavetrouble)
+
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> Youtube](https://youtube.com/youhavetrouble)
+
+
+### You can support me on:
+[<img align="left" alt="Ko-fi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ko-fi.svg" />Ko-fi](https://ko-fi.com/youhavetrouble)
+
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
