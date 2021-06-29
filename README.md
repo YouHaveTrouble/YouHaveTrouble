@@ -3,9 +3,9 @@
 <h3>My socials</h3>
 
 <a href="https://youhavetrouble.me"><img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/internetexplorer.svg" />Website</a>
-<br>
+<br><br>
 <a href="https://discord.gg/j8KK5dGBps"><img align="left" alt="Discord server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />Discord server</a>
-<br>
+<br><br>
 <a href="https://youtube.com/youhavetrouble"><img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />Youtube</a>
 
 
