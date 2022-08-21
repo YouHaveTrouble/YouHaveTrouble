@@ -1,5 +1,5 @@
 <!--- Seen this animation on https://github.com/WaxenSs and couldn't stop myself from using it myself ---!>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=YouHaveTrouble&fontAlignY=35&fontSize=50&desc=I%20do%20minecraft%20stuff%20for%20fun&descSize=13&descAlignY=50&animation=fadeIn" align="center" style="width: 100%">
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=YouHaveTrouble&fontAlignY=35&fontSize=50&desc=I%20do%20minecraft%20stuff%20for%20fun&descSize=13&descAlignY=50&animation=fadeIn" align="center" style="width: 100%"></a>
 
 "Hello fellow programmer, it's me Githapp, please dm me your credit card information for glorious star and fork amounts"
 <br>
