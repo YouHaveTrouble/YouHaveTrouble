@@ -6,3 +6,5 @@
 Visit <a href="https://youhavetrouble.me" target='_blank'>My website. It's cool, I promise.</a>
 <br>
 Wanna tip me? You can do so at <a href='https://ko-fi.com/U6U33PKX0' target='_blank'>ko-fi</a>.
+
+<a href="#"><img src="https://wakatime.com/share/@YouHaveTrouble/5cb3bf4d-bf4f-443a-a5d7-80560b9175d7.svg"></a>
