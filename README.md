@@ -7,5 +7,5 @@ Visit <a href="https://youhavetrouble.me" target='_blank'>My website. It's cool,
 <br>
 Wanna tip me? You can do so at <a href='https://ko-fi.com/U6U33PKX0' target='_blank'>ko-fi</a>.
 <br>
-<h3>Around <a href="#"><img src="https://profile-counter.glitch.me/youhavetrouble/count.svg"></a> people were here</h3>
+<h3>Around <a href="#"><img src="https://profile-counter.glitch.me/youhavetrouble/count.svg"></a> people refreshed this page</h3>
 
