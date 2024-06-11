@@ -22,4 +22,5 @@
 
 <a href="https://www.ko-fi.com/youhavetrouble"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
 
+$$\ce{$&#x5C;unicode[goombafont; skew(2deg)]{x0000}$}$$
 
